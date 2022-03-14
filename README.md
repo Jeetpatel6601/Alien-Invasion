@@ -32,7 +32,7 @@ loses a ship. If the player loses three ships, the game ends.
 ### Running 
 
 ```
-$ python alien_invasion.py
+$ python3 alien_invasion.py
 ``` 
 
 Enjoy!

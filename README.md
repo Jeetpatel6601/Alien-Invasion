@@ -28,3 +28,11 @@ loses a ship. If the player loses three ships, the game ends.
 
 - Arrows keys (left - right)
   - Move the ship left / right
+
+### Running 
+
+```
+$ python alien_invasion.py
+``` 
+
+Enjoy!

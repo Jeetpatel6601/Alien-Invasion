@@ -2,6 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/101332374/158157106-fb3fd350-8811-4bb4-a9c6-a2c7effffe5e.png">
 
+# 👽 Alien Invasion
+Alien invasion is a clone of popular arcade game with same name.
+I created this game by following the "Python Crash Course" book. The reason was to improve my python skills.
+
 ## 🚀 Introduction
 > In Alien Invasion, the player controls a ship that appears at
 the bottom center of the screen. The player can move the ship
@@ -13,4 +17,14 @@ appears that moves faster than the previous fleet. If any alien hits
 the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
 
+## 🔧 Requeriments
+- [Python](https://www.python.org/) 3.x +
+- [Pygame](https://www.pygame.org/)
 
+## :video_game: Controls
+
+- Space-bar
+  - Shoot
+
+- Arrows keys (left - right)
+  - Move the ship left / right

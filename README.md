@@ -17,7 +17,7 @@ appears that moves faster than the previous fleet. If any alien hits
 the player’s ship or reaches the bottom of the screen, the player
 loses a ship. If the player loses three ships, the game ends.
 
-## 🔧 Requeriments
+## 🔧 Requirments
 - [Python](https://www.python.org/) 3.x +
 - [Pygame](https://www.pygame.org/)
 
